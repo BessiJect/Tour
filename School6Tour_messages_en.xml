@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano>
+
+
+  <data name="en_project_title"><![CDATA[New Project]]></data>
+
+
+  <data name="en_panogroup47_title"><![CDATA[2 этаж]]></data>
+
+  <data name="en_pano39_title"><![CDATA[Правая рекреация, 2 этаж]]></data>
+  <data name="en_spotpolygon80_tooltip"><![CDATA[Холл, 1 этаж]]></data>
+  <data name="en_pano37_title"><![CDATA[Левая рекреация, 2 этаж]]></data>
+  <data name="en_spotpolygon82_tooltip"><![CDATA[Холл, 1 этаж]]></data>
+  <data name="en_pano41_title"><![CDATA[Столовая, 2 этаж]]></data>
+  <data name="en_spotpolygon78_tooltip"><![CDATA[Холл, 1 этаж]]></data>
+
+  <data name="en_panogroup53_title"><![CDATA[1 этаж]]></data>
+
+  <data name="en_pano42_title"><![CDATA[Холл, 1 этаж]]></data>
+  <data name="en_spotpolygon70_tooltip"><![CDATA[Правая рекреация, 1 этаж]]></data>
+  <data name="en_spotpolygon71_tooltip"><![CDATA[Актовый зал, 1 этаж]]></data>
+  <data name="en_spotpolygon72_tooltip"><![CDATA[Правая рекреация, 1 этаж]]></data>
+  <data name="en_spotpolygon77_tooltip"><![CDATA[Столовая, 2 этаж]]></data>
+  <data name="en_spotpolygon79_tooltip"><![CDATA[Правая рекреация, 2 этаж]]></data>
+  <data name="en_spotpolygon81_tooltip"><![CDATA[Левая рекреация, 2 этаж]]></data>
+  <data name="en_pano40_title"><![CDATA[Правая рекреация, 1 этаж]]></data>
+  <data name="en_spotpolygon74_tooltip"><![CDATA[Холл, 1 этаж]]></data>
+  <data name="en_pano36_title"><![CDATA[Актовый зал, 1 этаж]]></data>
+  <data name="en_spotpolygon75_tooltip"><![CDATA[Холл, 1 этаж]]></data>
+  <data name="en_pano43_title"><![CDATA[Спортивный зал, 1 этаж]]></data>
+  <data name="en_spotpolygon76_tooltip"><![CDATA[Холл, 1 этаж]]></data>
+
+
+
+
+
+
+  <data name="en_contextmenuopenFsLabel"><![CDATA[Enter Fullscreen]]></data>
+  <data name="en_contextmenucloseFsLabel"><![CDATA[Exit Fullscreen]]></data>
+  <data name="en_contextmenunormallabel"><![CDATA[Normal View]]></data>
+  <data name="en_contextmenuarchitecturallabel"><![CDATA[Architectural View]]></data>
+  <data name="en_contextmenulittleplanetlabel"><![CDATA[Little Planet View]]></data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</krpano>
